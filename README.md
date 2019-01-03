@@ -1,5 +1,9 @@
 # Lasertag game scoreboard app & updater
 
+
+
+[Google play link](https://play.google.com/store/apps/details?id=com.imperium.tibo.lasertagstatus)
+
 The folder lasertag contains the app to update the DB it is only used by game organisators
 The folder lasertagstatus contains the app to display the score, it is the scoreboard app. So the public app
 
